@@ -16,18 +16,25 @@
 - **Reference:** <https://developer.microsoft.com/reactor>
 
 ### VS Code Dev Days Seoul — Speaker
-- **Date:** 2025-09-26
-- **Format:** In-person, Seoul
+- **Date:** 2025-09-26 (Friday), 09:30 – 18:00 KST
+- **Title:** "VS Code와 MCP를 활용한 실무형 바이브 코딩"
+- **Venue:** Microsoft Korea, 13F, 50 Jongno 1-gil, Jongno-gu, Seoul (Gwanghwamun)
+- **Format:** In-person hands-on workshop
 - **Audience:** Korean developers
 - **Topic:** VS Code as a fully open-source AI code editor; agent-mode techniques; context engineering with `.github/instructions`; chat mode customization; MCP integration
 - **Co-speakers:** Justin Yoo (Microsoft Principal Cloud Advocate), Cho Eun Park (Microsoft MVP)
-- **Reference:** <https://aka.ms/vscodedevdays>
+- **Event page:** <https://event-us.kr/msftkrdevrel/event/109870>
+- **Global program reference:** <https://aka.ms/vscodedevdays>
 
-### VS Code Dev Day Jeju — Regional speaker
-- **Date:** 2025-10-11
-- **Format:** In-person, Jeju Island (regional)
-- **Audience:** Korean regional developers outside the Seoul metropolitan area
-- **Topic:** VS Code Agent Mode, MCP integration, GitHub Copilot CLI for regional Korean tech communities
+### VS Code Dev Days Jeju — Regional speaker
+- **Date:** 2025-10-11 (Saturday), 13:00 – 18:00 KST
+- **Title:** "VS Code Dev Days - JEJU"
+- **Venue:** Jeju Creative Economy Innovation Center, 3F, 217 Jungang-ro, Jeju City
+- **Format:** In-person hands-on workshop, regional
+- **Audience:** Korean regional developers outside the Seoul metropolitan area; planners and product managers
+- **Topic:** Activating GitHub Copilot in VS Code, effective AI coding prompts, Agent Mode practice, AI-assisted language migration, MCP integration
+- **Co-speaker:** Justin Yoo (Microsoft)
+- **Event page:** <https://jejuai.kr/vscode-devdays>
 
 ### GitHub Copilot Dev Days — Copilot CLI/SDK session host
 - **Date:** 2026-03 (approx.)
