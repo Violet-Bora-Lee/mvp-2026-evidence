@@ -147,12 +147,25 @@ Selected Korean enterprise sessions delivered using Microsoft AI Toolkit, GitHub
 | 2025-05-12 | "Build & Extend Your Own Copilot with Pro Code" | Microsoft Copilot Pro Code |
 | 2025-05-14 | Developers Guide to GitHub Copilot | GitHub Copilot Chat / Agent Mode |
 | 2025-06-05 | Microsoft Build 2025 GitHub highlights — Korean recap session | Build 2025 announcements |
-| 2025-09-23 | MegazoneCloud AI session | Microsoft Azure / AI Toolkit |
+| 2025-09-23 | **MegazoneCloud AI session (kickoff)** | GitHub Copilot + Azure AI Foundry |
 | 2025-09-29 | LG CNS Next | Microsoft developer stack |
 | 2025-10-28 | Hana Financial TI | GitHub Copilot enterprise |
+| 2025-11-20 | **MegazoneCloud Delight (subsidiary)** | GitHub Copilot + Azure AI Foundry |
+| 2025-11-25 | **Nepes** (semiconductor, Cheongju) — via MegazoneCloud | GitHub Copilot + Azure AI Foundry |
+| 2025-11-27 | Hankook Tire (Bundang Pangyo Technoplex) | GitHub Copilot enterprise |
+| 2025-12-10 | **InBody** (healthcare) — via MegazoneCloud | GitHub Copilot + Azure AI Foundry |
+| 2025-12-11 | **GIT** (Songpa, Seoul) — via MegazoneCloud | GitHub Copilot + Azure AI Foundry |
+| 2025-12-12 | **Goobne** (Yangcheon, Seoul) — via MegazoneCloud | GitHub Copilot + Azure AI Foundry |
+| 2025-12-15 | **MegazoneCloud internal team** | GitHub Copilot + Azure AI Foundry |
+| 2025-12-16 | DevMentor Conference — enterprise track | GitHub Copilot enterprise |
 | 2025-12-17 | Mirae Asset | Vibe coding on Microsoft stack |
 | 2025-12-17 | Korea Type-1 Diabetes Patients Assoc. | AI chatbot on Microsoft AI Toolkit |
-| 2026-03-27 | MegazoneCloud agent hackathon mentor | Microsoft AI Toolkit, Azure |
+| 2026-01-22 | Electronic Times (전자신문) Conference | Vibe coding on Microsoft stack |
+| 2026-02-25 | IDAC Forum | Vibe coding on Microsoft stack |
+| 2026-03-27 | **MegazoneCloud Agent Hackathon mentor** | Microsoft Agent Framework + Azure |
+| 2026-03-29 | Investment cooperative briefing | Vibe coding on Microsoft stack |
+
+**MegazoneCloud × Microsoft enterprise mentoring track (2025 Q3 – 2026 Q1):** 8 of the sessions above (bolded) were delivered through MegazoneCloud — Microsoft Korea's #1 cloud partner — as a multi-week curriculum covering GitHub Copilot Agent Mode, Copilot Metrics governance, Azure AI Foundry deployment patterns, and Microsoft Agent Framework. Curriculum signed off 2025-11-03; capstone delivered at the 2026-03-27 Agent Hackathon.
 
 Co-mentor for several enterprise sessions: Justin Yoo (Microsoft Principal Cloud Advocate).
 
