@@ -64,6 +64,18 @@
 - **Topic:** Hands-on multi-agent system construction; participants stay until system is functional
 - **Reference:** <https://x.com/WWCKorea/status/2036044546061340926>
 
+### DDD Seoul 2025 — organizing committee (1 of 10 volunteers)
+- **Event date:** 2025-12-05 (Friday), 09:00 – 18:00 KST
+- **Venue:** Microsoft Korea, 13F, 50 Jongno 1-gil, Jongno-gu, Seoul (Gwanghwamun)
+- **Format:** In-person developer conference, keynotes + 2 breakout tracks
+- **Theme:** AI / cloud / developer tools — Microsoft-aligned
+- **Significance:** Asia's first DDD-format conference (DDD format originated in the UK in 2005); the only Korean developer conference run end-to-end by community volunteers and explicitly anchored on the Microsoft developer stack
+- **Engagement period:** 2025-09-28 kickoff → 2025-12-05 event (~12 weekly Sunday organizing meetings on Microsoft Teams)
+- **My role:** CFP review and speaker shortlisting, sponsorship intake, budget tracking, women-in-tech speaker pipeline (via WWCKorea), day-of operations (badge printing, check-in flow, attendee logistics)
+- **Lead organizer:** Justin Yoo (Microsoft Principal Cloud Advocate)
+- **Co-organizers:** Cho Eun Park (Microsoft MVP), Kim Young-wook, Kim Jin-seok, and 5 others
+- **Reference:** <https://dddseoul.kr/>
+
 ### Figma MCP × Korean Government Design System hands-on workshop (organizer)
 - **Date:** 2025-05-26
 - **Audience:** ~30 Korean frontend developers
