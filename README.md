@@ -8,19 +8,19 @@ Evidence index for Microsoft MVP 2026 annual review by **Bora Lee** ([Violet-Bor
 
 ## Quick metrics (verified, contribution period only)
 
-| Channel | Total | Microsoft-focused |
+| Channel | Total | Microsoft / GitHub positive-coverage |
 |---------|------:|------------------:|
 | LinkedIn deep-dives | **376K+ impressions** across 50+ posts | **100K+ impressions** across top 13 posts |
-| X (@LearnerBR) | **8.35M+ impressions** across 1,670 posts | **856K+ impressions** across 102 posts |
+| X (@LearnerBR) | **8.35M impressions** across 1,670 posts | **316K impressions** across 67 curated positive-coverage posts |
 | Microsoft GitHub Issues | 3 reports filed | 1 fix shipped (vscode-ai-toolkit#344) |
-| **Combined Korean reach (Microsoft-focused only)** | — | **956K+ verified impressions** |
+| **Combined Korean reach (Microsoft / GitHub positive-coverage only)** | — | **416K+ verified impressions** |
 
 ---
 
 ## Sections
 
 - 📝 **[LinkedIn — Microsoft Tech Deep-Dive Series](./linkedin-posts.md)** — top posts with impressions, links, and per-post analytics spreadsheets
-- 🐦 **[X (@LearnerBR) — Microsoft Tech Series](./x-posts.md)** — top posts with impressions and links
+- 🐦 **[X (@LearnerBR) — Microsoft & GitHub Positive-Coverage Series](./x-posts.md)** — 67 manually curated posts clearly promoting / educating about Microsoft / GitHub, with impressions, likes, and direct links
 - 🐙 **[Microsoft GitHub — Public Issue Reports](./microsoft-github-issues.md)** — vscode, vscode-ai-toolkit, Azure-Samples
 - 🎤 **[Speaking Events](./speaking-events.md)** — Microsoft Reactor, VS Code Dev Days, Microsoft AI Toolkit hackathons
 
