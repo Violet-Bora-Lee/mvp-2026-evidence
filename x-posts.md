@@ -16,7 +16,7 @@
 | Top single post (Klaire Baek — GitHub Copilot Director story) | **840,431 imp** / 468 likes |
 | Account top-posts dataset (contribution period) | 107 top posts / 5.56M impressions |
 
-All metrics verifiable in the X analytics CSV export covering the contribution period (`account_analytics_content_2025-03-01_2026-03-31.csv`, supplemented for low-impression posts by `account_analytics_content_2025-05-01_2026-03-31.csv`).
+All metrics verifiable in the curated CSV [`x/x-posts-curated.csv`](./x/x-posts-curated.csv) — exported from the X analytics dashboard for the contribution period and reduced to the 71 positive-coverage posts only. Per-post impressions and likes are also publicly visible on each post URL.
 
 ---
 
@@ -472,6 +472,6 @@ GitHub Copilot (CLI, Pro, Enterprise, Metrics, agent mode, Spark, leadership pro
 
 ## Verification
 
-- Underlying data: X analytics CSV exports (`account_analytics_content_2025-03-01_2026-03-31.csv` for top posts; `account_analytics_content_2025-05-01_2026-03-31.csv` for full breadth).
+- Curated CSV with full per-post metrics: [`x/x-posts-curated.csv`](./x/x-posts-curated.csv) (71 rows; impressions, likes, engagements, bookmarks, shares, replies, reposts, profile visits, detail expands, URL clicks, post URL, post ID, post text).
 - Each post is publicly viewable at the URL listed above without login.
 - Per-post impressions and likes are publicly visible on each post.

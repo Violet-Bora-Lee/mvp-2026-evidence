@@ -39,7 +39,9 @@ Evidence index for Microsoft MVP 2026 annual review by **Bora Lee** ([Violet-Bor
 mvp-2026-evidence/
 ├── README.md                      ← this file
 ├── linkedin-posts.md              ← LinkedIn top posts index
-├── x-posts.md                     ← X (Twitter) top posts index
+├── x-posts.md                     ← X (Twitter) positive-coverage index
+├── x/
+│   └── x-posts-curated.csv        ← curated CSV (71 rows, full per-post metrics)
 ├── microsoft-github-issues.md     ← MS GitHub issue reports
 ├── speaking-events.md             ← speaking engagements
 └── linkedin/
