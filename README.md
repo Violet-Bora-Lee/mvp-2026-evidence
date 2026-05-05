@@ -19,10 +19,33 @@ Evidence index for Microsoft MVP 2026 annual review by **Bora Lee** ([Violet-Bor
 
 ## Sections
 
-- 📝 **[LinkedIn — Microsoft Tech Deep-Dive Series](./linkedin-posts.md)** — top posts with impressions and links
+- 📝 **[LinkedIn — Microsoft Tech Deep-Dive Series](./linkedin-posts.md)** — top posts with impressions, links, and per-post analytics spreadsheets
 - 🐦 **[X (@LearnerBR) — Microsoft Tech Series](./x-posts.md)** — top posts with impressions and links
 - 🐙 **[Microsoft GitHub — Public Issue Reports](./microsoft-github-issues.md)** — vscode, vscode-ai-toolkit, Azure-Samples
 - 🎤 **[Speaking Events](./speaking-events.md)** — Microsoft Reactor, VS Code Dev Days, Microsoft AI Toolkit hackathons
+
+---
+
+## 📊 Primary evidence files (LinkedIn analytics export)
+
+> **Verification documents exported directly from LinkedIn — not edited.**
+
+- 🔴 **[📄 LinkedIn account-level analytics PDF](./linkedin/analytics-overview.pdf)** — official analytics export covering 1 April 2025 – 31 March 2026. **Open this first** to verify headline metrics.
+- 📁 [Per-post analytics spreadsheets (`linkedin/posts/`)](./linkedin/posts/) — one `.xlsx` per top Microsoft-focused post, numbered to match [linkedin-posts.md](./linkedin-posts.md).
+
+## Folder structure
+
+```
+mvp-2026-evidence/
+├── README.md                      ← this file
+├── linkedin-posts.md              ← LinkedIn top posts index
+├── x-posts.md                     ← X (Twitter) top posts index
+├── microsoft-github-issues.md     ← MS GitHub issue reports
+├── speaking-events.md             ← speaking engagements
+└── linkedin/
+    ├── analytics-overview.pdf     ← 🔴 LinkedIn account analytics PDF
+    └── posts/                     ← per-post .xlsx exports (11 files)
+```
 
 ---
 
