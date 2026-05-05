@@ -1,4 +1,4 @@
-# X (@LearnerBR) — Microsoft Tech Series
+# X (@LearnerBR) — Microsoft & GitHub Positive-Coverage Series
 
 **Author:** Bora Lee ([@LearnerBR](https://twitter.com/LearnerBR))
 **Contribution period:** 1 April 2025 – 31 March 2026
@@ -9,173 +9,445 @@
 
 | Metric | Value |
 |--------|------:|
-| Total posts (all topics) | 1,670 |
-| Total impressions (all topics) | 8,349,982 |
-| Total engagements (all topics) | 326,474 |
-| Microsoft/GitHub-keyword-matched posts | 121 |
-| Microsoft/GitHub-matched impressions | 742,776 |
-| Top 25 Microsoft-focused impressions | 554,575 |
+| Curated Microsoft / GitHub positive-coverage posts | **67** |
+| Combined impressions | **316,065** |
+| Combined likes | **3,716** |
+| Combined engagements | **13,277** |
+| Top single-post (TTimes × Microsoft Learn) | 30,097 imp / 1,006 likes |
+| Account total (all topics, contribution period) | 1,670 posts / 8.35M impressions |
 
-All metrics verifiable in X analytics export covering the contribution period.
+All metrics verifiable in the X analytics CSV export covering the contribution period (`account_analytics_content_2025-05-01_2026-03-31.csv`).
 
 ---
 
-## Top 25 Microsoft-focused posts
+## Curation method
 
-> Cadence: real-time Korean-language coverage of Microsoft announcements (typically within hours).
+These 67 posts were selected from 139 keyword-matched candidates by manually reading every post and keeping only those that **promote, celebrate, or educate about Microsoft / GitHub products in a clearly positive light**. Excluded:
 
-### 1. 2025-11-07
-- **Impressions:** 84,078
-- **Likes:** 79
-- **URL:** <https://x.com/LearnerBR/status/1986730373695373427>
-- **Excerpt:** 생활코딩에 올라온 이준석 의원 보좌관 채용공고 현직 개발자를 채용중이며 다음과 같은 기술 스택을 요구한다 합니다. [요구 기술스택] - React 기반의 프런트엔드 개발 - AI 기반 코딩 에이전트 활용 경험 (예: GitHub Copilot, Cla
+- Posts that mention non-Microsoft AI/coding products in a positive light
+- Critical or negative posts about Microsoft / GitHub
+- Posts where Microsoft / GitHub are mentioned only tangentially
 
-### 2. 2025-10-24
-- **Impressions:** 46,941
-- **Likes:** 247
-- **URL:** <https://x.com/LearnerBR/status/1981865568425964010>
-- **Excerpt:** 휴 이제야 한국도 바이브코딩으로 수익화 하시는 분들이 자신 사례 슬슬 공유하시마보다. 외국보다 한 3~4개월은 늦는듯... 이쯤되면 신나게 욕먹은 제 TTimes 출연 영상 다시 끌올 할게요.. https://t.co/b3YCxODUJV
+This list is therefore the verifiable evidence of consistent, positive Korean-language X amplification of Microsoft and GitHub products during the contribution period.
 
-### 3. 2026-02-12
-- **Impressions:** 45,860
-- **Likes:** 502
-- **URL:** <https://x.com/LearnerBR/status/2022066455815368858>
-- **Excerpt:** 공짜 AI 찾아드립니다~ 주워가세요 공개 GitHub 저장소 돌아다니면서 키 유출된거 자동으로 리스트업 해주는 사이트 등장. 키가 뭐여? 라는 분들께 쉽게 설명하면... 집앞 화분 밑에 열쇠 숨겨놓는 사람 집주소 공개해주는 사이트라고 보면됨. 정말 온
+---
 
-### 4. 2025-11-29
-- **Impressions:** 44,221
-- **Likes:** 221
-- **URL:** <https://x.com/LearnerBR/status/1994760349111963955>
-- **Excerpt:** 구글은 자사 직원들한테 Antigravity 금지령 내림 GitHub Copilot, Claude Code는 확실히 내부 직원들이 개밥먹기 열심히 하는걸로 알고있음
+## Positive-coverage posts (sorted by impressions)
 
-### 5. 2026-01-09
-- **Impressions:** 42,651
-- **Likes:** 343
-- **URL:** <https://x.com/LearnerBR/status/2009594178876182930>
-- **Excerpt:** 아직도 VS Code 쓰니? 응. 보안 빡센 대기업은 코딩에이전트 다른거 막아놓는데 많다.. 이미지는 네이버 유튭 채널에서 퍼옴 다른거 못쓴다고 구두로 말함 https://t.co/Zw0rOTur0i 10분 00초 참고하세요 https://t.co/p
+> Cadence: real-time Korean-language coverage, typically posted within hours of the Microsoft / GitHub announcement.
 
-### 6. 2026-03-22
-- **Impressions:** 40,024
-- **Likes:** 33
-- **URL:** <https://x.com/LearnerBR/status/2035689273241063918>
-- **Excerpt:** 내 스킬 빌더 천재인듯... 다른사람들도 어떻게 하나 github에서 찾아봤는데 음... 내꺼가 짱 ㅋㅋㅋ🤣 https://t.co/gWiIZGOs0d
-
-### 7. 2026-03-22
+### 1. Microsoft engineers' skill repository roundup
+- **Date:** 2026-03-22
 - **Impressions:** 30,260
 - **Likes:** 348
 - **URL:** <https://x.com/LearnerBR/status/2035693897461170401>
-- **Excerpt:** 내 스킬도 천재이지만 아이쿠 또 마이크로소프트 직원들이 꿀통 스킬만 여기저기서 수집해두셨네 https://t.co/WoEdwMdsny
 
-### 8. 2025-07-01
+### 2. TTimes × Microsoft Learn feature
+- **Date:** 2025-07-01
 - **Impressions:** 30,097
-- **Likes:** 1006
+- **Likes:** 1,006
 - **URL:** <https://x.com/LearnerBR/status/1940037400723693695>
-- **Excerpt:** 티타임즈 x 마이크로소프트 마이크로소프트 초초초 엘리트 개발자들과 교육 공학 전문가들이 엄청난 비용을 들여서 설계한 무료 학습 사이트가 있다고? 넵. 마이크로소프트 Learn 사이트가 바로 그것입니다. MS 런 사이트와 Code; Without Bar
 
-### 9. 2026-03-06
-- **Impressions:** 26,093
-- **Likes:** 292
-- **URL:** <https://x.com/LearnerBR/status/2029835040432214481>
-- **Excerpt:** 꼰대 발언 GitHub는 근본 기술이 아니다. Git을 배워라 용사들이여. 수백, 수천억, 그 이상 매출 내는 회사들 중에 GitLab, BitBucket, Gitea 등을 쓰는 회사가 많다. 초대형 기업들은 GitHub를 안쓰는 회사가 생각보다 많다
-
-### 10. 2025-07-07
+### 3. MCP live build with Microsoft official MCP curriculum
+- **Date:** 2025-07-07
 - **Impressions:** 21,827
 - **Likes:** 146
 - **URL:** <https://x.com/LearnerBR/status/1942304804434571348>
-- **Excerpt:** 다들 MCP 남이 만든거 가져다 쓴다는데 나는 만들어볼거야! 내 주 언어는 JS, TS야! 그렇다면 라이브 참여 함께 하시죠🤩 MCP 공식 문서 샘플이랑 한창 타임라인에 떴었던 MS 공식 MCP 학습자료 프롬프트 실딩 방법까지 (보안이 생명!!!!)
 
-### 11. 2026-03-05
+### 4. GitHub: TypeScript becomes #1 language
+- **Date:** 2026-03-05
 - **Impressions:** 16,829
 - **Likes:** 189
 - **URL:** <https://x.com/LearnerBR/status/2029434487055249765>
-- **Excerpt:** GitHub 공식발표! TypeScript가 왕좌를 차지하다. TypeScript가 Python과 JavaScript를 제치고 GitHub에서 가장 많이 사용되는 언어 1위를 탈환했습니다. 역대 최초 1위이면서, 66% 폭성장률을 보였다고 하네요. 이
 
-### 12. 2025-12-01
+### 5. Enterprise vibe coding with GitHub Copilot Metrics
+- **Date:** 2025-12-01
 - **Impressions:** 15,377
 - **Likes:** 121
 - **URL:** <https://x.com/LearnerBR/status/1995387064783946139>
-- **Excerpt:** 이제 엔터프라이즈급 바이브 코딩 전략에 대한 논의가 다양한 곳에서 시작되고 있다. 모니터링, 통제 툴도 하나씩 나오고 있다. (이게 없으면 뭐 그냥 토이이지뭐..) 팀장님, 테크리더, CTO를 비롯해 의사결정권을 가진 분들이라면 GitHub Copil
 
-### 13. 2026-01-16
+### 6. VS Code Insider multi-agent support
+- **Date:** 2026-01-16
 - **Impressions:** 13,734
 - **Likes:** 50
 - **URL:** <https://x.com/LearnerBR/status/2012103363169775833>
-- **Excerpt:** VS Code 인사이더에서 멀티 에이전트를 본격 지원합니다. "서브에이전트 4개 써서 이거 작업 4개 병렬로 처리해줘"라고 입력하면 됩니다. 비디오 참고하세요.
 
-### 14. 2025-06-04
+### 7. Figma official Dev Mode MCP × VS Code integration
+- **Date:** 2025-06-04
 - **Impressions:** 13,288
 - **Likes:** 83
 - **URL:** <https://x.com/LearnerBR/status/1930386247559852254>
-- **Excerpt:** 피그마팀 공식 MCP와 VS Code 연동이 쉬워졌어요! 비공식 MCP로 작업하다보면 되다 안되다 하여서.. 직접 작업할때도 그렇고 강의나 데모때 땀을 흘리게되는 경우가 상당했습니다 그래서 도커로 좀 안정되게 환경을 세팅해보려했거든요 근데 피그마팀 공
 
-### 15. 2025-06-17
+### 8. GitHub UI prompt versioning launch
+- **Date:** 2025-05-21
+- **Impressions:** 11,844
+- **Likes:** 198
+- **URL:** <https://x.com/LearnerBR/status/1925311662439149597>
+
+### 9. Microsoft official MCP curriculum review
+- **Date:** 2025-06-17
 - **Impressions:** 10,893
 - **Likes:** 132
 - **URL:** <https://x.com/LearnerBR/status/1935029723341750328>
-- **Excerpt:** MCP 커리큘럼 좋네 마이크로소프트가 말아주는 MCP 만들기 튜토리얼 MCP공식 사이트에 있는 날씨api 관련 튜토리얼 코드랑 이거 코드보면 머리에 큰 그림그리는거는 큰 무리가 없겠다 다음주에 할 강의 컨텐츠 다 갈아엎어야 하나 😇 응 아니 못해 잠
 
-### 16. 2026-02-05
+### 10. Enterprise AI agent governance with GitHub Actions
+- **Date:** 2026-01-10
+- **Impressions:** 10,828
+- **Likes:** 81
+- **URL:** <https://x.com/LearnerBR/status/2010021663417700631>
+
+### 11. GitHub Copilot Pro / Enterprise migration playbook
+- **Date:** 2026-02-05
 - **Impressions:** 10,685
 - **Likes:** 88
 - **URL:** <https://x.com/LearnerBR/status/2019291848603496718>
-- **Excerpt:** 이거 좀 획기적인데.. 다들 보시고 덜 중요한 저장소는 (회사 소개 홈페이지, 랜딩 페이지 등) 깃헙으로 마이그레이션 하고, 사장님이나 지원부서에 코파일럿 프로, 엔터프라이즈 구매해줘서 중요한 일에만 에너지 쓸 수 있게 위임하세요. 그러다가 괜찮으면
 
-### 17. 2026-01-16
+### 12. GitHub secret-scanning gamification
+- **Date:** 2025-06-19
+- **Impressions:** 9,723
+- **Likes:** 81
+- **URL:** <https://x.com/LearnerBR/status/1935493584209506552>
+
+### 13. GitHub Copilot multi-environment agents (local + cloud)
+- **Date:** 2026-01-16
 - **Impressions:** 8,612
 - **Likes:** 88
 - **URL:** <https://x.com/LearnerBR/status/2012105888421871867>
-- **Excerpt:** 이 기능도 꽤나 마음에 드네요. 로컬, 백그라운드, 클라우드에서 동시에 에이전트 돌리기 가능! "왜 클라우드에서 돌려요?" 혼자 작업하면 뭐 어디서 에이전트가 돌아도 상관없습니다. 클라우드에서 돌리면 이 에이전트가 어떻게 사고하고 어떤 결과물을 내는지
 
-### 18. 2025-07-22
-- **Impressions:** 8,079
-- **Likes:** 128
-- **URL:** <https://x.com/LearnerBR/status/1947459040851988657>
-- **Excerpt:** VS Code팀에서 이제 당당히 클로드 미네. 스탠스 변화가 느껴지는 요즘 공식 포스트들
-
-### 19. 2026-01-09
-- **Impressions:** 7,548
-- **Likes:** 75
-- **URL:** <https://x.com/LearnerBR/status/2009579736587231540>
-- **Excerpt:** 클로드 오푸스 4.5는 비싸다 깃헙 코파일럿에서도 3배 승수 적용시켜서 프리미엄 요청 할당량 깎아버림 오푸스4.5 신봉자들은 Amp를 시도해볼것 참고로 위쪽 승수 0인 애들은 깃헙 코파일럿 10달러짜리만 구매해도 무료로 쓸수있는 애들임 승수가 0이니까
-
-### 20. 2025-06-04
-- **Impressions:** 6,728
-- **Likes:** 69
-- **URL:** <https://x.com/LearnerBR/status/1930403247950573800>
-- **Excerpt:** 피그마 공식 MCP 오픈베타 신청 링크 https://t.co/WjKvgLbqNz 여기 들어가서 맨 위 링크 클릭해서 또 신청서 작성 form 열어야해요. https://t.co/Er4QEMnN7H
-
-### 21. 2026-01-18
+### 14. DeepWiki for GitHub repos
+- **Date:** 2026-01-18
 - **Impressions:** 6,679
 - **Likes:** 46
 - **URL:** <https://x.com/LearnerBR/status/2013004971793588338>
-- **Excerpt:** 딥위키좋다.. GitHub 에이전트 못쓰는 환경에 있는분들은 이거 사내 저장소에 붙이면 온보딩 문서 그런거 적을 필요도 없을듯..
 
-### 22. 2026-02-26
-- **Impressions:** 6,290
-- **Likes:** 56
-- **URL:** <https://x.com/LearnerBR/status/2027124255604064404>
-- **Excerpt:** Playwright도 CLI가 있음 MCP는 기본적으로 툴을 많이 내장하고 있어서 토큰 많이 씀. 제일 깔끔한건 딸깍으로 내가 쓸 MCP만드는거임. 그 전에, 내가 하려는 작업이 MCP까지 필요한건지(CLI로 커버 되는건지) 아는거가 더 중요함 공구
+### 15. Microsoft commits to MCP — VS Code Dev Days reference
+- **Date:** 2025-09-29
+- **Impressions:** 5,203
+- **Likes:** 15
+- **URL:** <https://x.com/LearnerBR/status/1972592852946526481>
 
-### 23. 2025-10-12
-- **Impressions:** 6,153
-- **Likes:** 43
-- **URL:** <https://x.com/LearnerBR/status/1977351111171526947>
-- **Excerpt:** 애플, 마이크로소프트, 메타 등도 메모리 관리 잘 못해서 난리인데, 일단 우리도 그냥 합시다. 몇몇 회사 느리게 움직이다가 스타트업한테 점유율 잠식당하는거 많이 보셨죠? 품질이 속도보다 중요한 영역은 B2C에서는 그다지 많지 않다고 생각하는 입장입니다
+### 16. Kevin Scott (Microsoft CTO) on agentic web vision
+- **Date:** 2025-06-01
+- **Impressions:** 4,949
+- **Likes:** 20
+- **URL:** <https://x.com/LearnerBR/status/1929273258731577789>
 
-### 24. 2026-03-05
-- **Impressions:** 6,034
-- **Likes:** 27
-- **URL:** <https://x.com/LearnerBR/status/2029414146929013100>
-- **Excerpt:** OpenAI의 새 프로젝트 Syphony 나오는 문서 보면 Speckit 보다는 좀 덜 경량이어서 선호할 분들 꽤 있을듯 오픈AI의 하네스 엔지니어링 철학을 담았다고 함 https://t.co/OZLHyqOLBQ https://t.co/uPLlRp0g
+### 17. GitHub Copilot as enterprise single AI tool standard
+- **Date:** 2026-02-15
+- **Impressions:** 4,347
+- **Likes:** 40
+- **URL:** <https://x.com/LearnerBR/status/2023103865223283007>
 
-### 25. 2025-11-04
-- **Impressions:** 5,594
+### 18. GitHub Universe 2025 highlights for enterprise classes
+- **Date:** 2025-11-28
+- **Impressions:** 4,243
+- **Likes:** 48
+- **URL:** <https://x.com/LearnerBR/status/1994402051997241502>
+
+### 19. VS Code Insider permission/file-system progress
+- **Date:** 2026-02-20
+- **Impressions:** 4,191
+- **Likes:** 46
+- **URL:** <https://x.com/LearnerBR/status/2024879241440252228>
+
+### 20. GitHub For the Love of Code hackathon promo
+- **Date:** 2025-07-28
+- **Impressions:** 3,931
 - **Likes:** 64
-- **URL:** <https://x.com/LearnerBR/status/1985578246826811738>
-- **Excerpt:** 이번 GitHub Universe 행사에 대한 주요 내용은 타임라인에 별로 없어서.. 하지만 영상 보니까 강력했다.. Claude, Codex꺼 다 흡수해서 깃헙이라는 플랫폼에 녹여내고 있음. 코딩은 Claude Code, Codex가 잘하는거 다들아
+- **URL:** <https://x.com/LearnerBR/status/1949823249577095285>
+
+### 21. GitHub Copilot Metric for AI code adoption tracking
+- **Date:** 2026-02-14
+- **Impressions:** 3,903
+- **Likes:** 2
+- **URL:** <https://x.com/LearnerBR/status/2022609853857055152>
+
+### 22. GitHub Copilot enterprise ROI dashboard
+- **Date:** 2026-02-14
+- **Impressions:** 3,614
+- **Likes:** 21
+- **URL:** <https://x.com/LearnerBR/status/2022610211115274508>
+
+### 23. VS Code Dev Day + GitHub Spec Kit Agents.md
+- **Date:** 2025-09-25
+- **Impressions:** 3,431
+- **Likes:** 26
+- **URL:** <https://x.com/LearnerBR/status/1971289871261245563>
+
+### 24. GitHub Universe demo deep dive
+- **Date:** 2025-11-26
+- **Impressions:** 3,376
+- **Likes:** 33
+- **URL:** <https://x.com/LearnerBR/status/1993734059290501149>
+
+### 25. Satya + GitHub Copilot CLI SDK announcement
+- **Date:** 2026-01-22
+- **Impressions:** 3,083
+- **Likes:** 29
+- **URL:** <https://x.com/LearnerBR/status/2014405112576495910>
+
+### 26. VS Code Dev Days Seoul speaker promo
+- **Date:** 2025-08-13
+- **Impressions:** 3,005
+- **Likes:** 86
+- **URL:** <https://x.com/LearnerBR/status/1955539861253001269>
+
+### 27. Microsoft MCP sample + Azure Container Apps deploy
+- **Date:** 2025-06-08
+- **Impressions:** 2,824
+- **Likes:** 53
+- **URL:** <https://x.com/LearnerBR/status/1931714374512881858>
+
+### 28. Microsoft Data & AI Specialist book recommendation
+- **Date:** 2025-08-08
+- **Impressions:** 2,645
+- **Likes:** 55
+- **URL:** <https://x.com/LearnerBR/status/1953708491820130554>
+
+### 29. GitHub Copilot coding agent on issues/PRs
+- **Date:** 2025-06-25
+- **Impressions:** 2,444
+- **Likes:** 9
+- **URL:** <https://x.com/LearnerBR/status/1937798716515291196>
+
+### 30. GitHub Actions inline-prompt feature
+- **Date:** 2025-12-03
+- **Impressions:** 2,409
+- **Likes:** 39
+- **URL:** <https://x.com/LearnerBR/status/1996228729690038735>
+
+### 31. VS Code Multi-root Workspace for multi-agent
+- **Date:** 2026-01-11
+- **Impressions:** 2,406
+- **Likes:** 29
+- **URL:** <https://x.com/LearnerBR/status/2010294302984048753>
+
+### 32. GitHub Copilot CLI GA
+- **Date:** 2026-02-25
+- **Impressions:** 2,281
+- **Likes:** 8
+- **URL:** <https://x.com/LearnerBR/status/2026805413786825154>
+
+### 33. Microsoft global team × MegazoneCloud agent hackathon
+- **Date:** 2026-03-17
+- **Impressions:** 2,220
+- **Likes:** 15
+- **URL:** <https://x.com/LearnerBR/status/2033841623441018881>
+
+### 34. Microsoft Build / Ignite as authoritative source
+- **Date:** 2025-05-13
+- **Impressions:** 2,078
+- **Likes:** 8
+- **URL:** <https://x.com/LearnerBR/status/1922238388683383201>
+
+### 35. VS Code release cadence accelerates to weekly
+- **Date:** 2026-03-07
+- **Impressions:** 2,067
+- **Likes:** 20
+- **URL:** <https://x.com/LearnerBR/status/2030324855653167596>
+
+### 36. GitHub is a Microsoft product — speaker support
+- **Date:** 2025-10-12
+- **Impressions:** 2,029
+- **Likes:** 17
+- **URL:** <https://x.com/LearnerBR/status/1977331581661729208>
+
+### 37. Satya launches GitHub Spark
+- **Date:** 2025-07-23
+- **Impressions:** 2,013
+- **Likes:** 20
+- **URL:** <https://x.com/LearnerBR/status/1948108145168994328>
+
+### 38. GitHub team self-hosting hint
+- **Date:** 2025-07-12
+- **Impressions:** 1,892
+- **Likes:** 21
+- **URL:** <https://x.com/LearnerBR/status/1943916264982032579>
+
+### 39. Microsoft Learn praise
+- **Date:** 2025-11-02
+- **Impressions:** 1,813
+- **Likes:** 27
+- **URL:** <https://x.com/LearnerBR/status/1984793062674219435>
+
+### 40. GitHub Copilot data privacy clarification
+- **Date:** 2026-03-26
+- **Impressions:** 1,799
+- **Likes:** 9
+- **URL:** <https://x.com/LearnerBR/status/2037082391773405534>
+
+### 41. GitHub Copilot enterprise tooling — best in class
+- **Date:** 2026-01-15
+- **Impressions:** 1,596
+- **Likes:** 14
+- **URL:** <https://x.com/LearnerBR/status/2011812027799650612>
+
+### 42. Copilot CLI is showing real momentum
+- **Date:** 2026-03-24
+- **Impressions:** 1,593
+- **Likes:** 9
+- **URL:** <https://x.com/LearnerBR/status/2036500504038219979>
+
+### 43. Figma MCP × VS Code × GitHub Copilot agent mode
+- **Date:** 2025-05-27
+- **Impressions:** 1,543
+- **Likes:** 34
+- **URL:** <https://x.com/LearnerBR/status/1927350852051718610>
+
+### 44. VS Code agent mode + GitHub coding agent
+- **Date:** 2025-06-19
+- **Impressions:** 1,498
+- **Likes:** 11
+- **URL:** <https://x.com/LearnerBR/status/1935491161642385556>
+
+### 45. Microsoft Build 2025 keynote summary
+- **Date:** 2025-05-20
+- **Impressions:** 1,455
+- **Likes:** 15
+- **URL:** <https://x.com/LearnerBR/status/1924686230283026671>
+
+### 46. WWCKorea × Microsoft keynote announcement
+- **Date:** 2025-06-18
+- **Impressions:** 1,453
+- **Likes:** 13
+- **URL:** <https://x.com/LearnerBR/status/1935205975738515594>
+
+### 47. GitHub Actions code generation quality
+- **Date:** 2026-02-26
+- **Impressions:** 1,277
+- **Likes:** 14
+- **URL:** <https://x.com/LearnerBR/status/2026813396482732226>
+
+### 48. Microsoft MVP interview report sharing
+- **Date:** 2026-01-15
+- **Impressions:** 1,214
+- **Likes:** 12
+- **URL:** <https://x.com/LearnerBR/status/2011774053347180571>
+
+### 49. VS Code file-context UX
+- **Date:** 2026-03-30
+- **Impressions:** 1,197
+- **Likes:** 12
+- **URL:** <https://x.com/LearnerBR/status/2038595516569960771>
+
+### 50. Microsoft MVP 2025 award announcement
+- **Date:** 2025-07-10
+- **Impressions:** 1,109
+- **Likes:** 30
+- **URL:** <https://x.com/LearnerBR/status/1943341615483097249>
+
+### 51. GitHub repo security warnings — defensive value
+- **Date:** 2025-07-07
+- **Impressions:** 1,045
+- **Likes:** 14
+- **URL:** <https://x.com/LearnerBR/status/1942165116851789922>
+
+### 52. GitHub MCP registry as trustworthy source
+- **Date:** 2025-09-25
+- **Impressions:** 997
+- **Likes:** 18
+- **URL:** <https://x.com/LearnerBR/status/1971332467346014442>
+
+### 53. GitHub Copilot enterprise focus vs other tools
+- **Date:** 2025-06-17
+- **Impressions:** 969
+- **Likes:** 21
+- **URL:** <https://x.com/LearnerBR/status/1935052588644434398>
+
+### 54. VS Code click-based context engineering
+- **Date:** 2025-11-29
+- **Impressions:** 939
+- **Likes:** 9
+- **URL:** <https://x.com/LearnerBR/status/1994705602283802965>
+
+### 55. VS Code Dev Days Jeju speaker recap
+- **Date:** 2025-10-11
+- **Impressions:** 929
+- **Likes:** 10
+- **URL:** <https://x.com/LearnerBR/status/1976864288347492759>
+
+### 56. GitHub multi-agent unit-test generation
+- **Date:** 2026-03-28
+- **Impressions:** 875
+- **Likes:** 0
+- **URL:** <https://x.com/LearnerBR/status/2037994981659644257>
+
+### 57. GitHub Copilot CLI launch (MVP preview)
+- **Date:** 2025-09-25
+- **Impressions:** 871
+- **Likes:** 12
+- **URL:** <https://x.com/LearnerBR/status/1971301191016653185>
+
+### 58. Microsoft engineers solving issues on vscode repo
+- **Date:** 2026-02-18
+- **Impressions:** 846
+- **Likes:** 6
+- **URL:** <https://x.com/LearnerBR/status/2024175687758991420>
+
+### 59. Microsoft Reactor speaking
+- **Date:** 2025-07-07
+- **Impressions:** 837
+- **Likes:** 8
+- **URL:** <https://x.com/LearnerBR/status/1942309401056149893>
+
+### 60. GitHub COO public statement
+- **Date:** 2026-02-26
+- **Impressions:** 791
+- **Likes:** 1
+- **URL:** <https://x.com/LearnerBR/status/2026813619909144934>
+
+### 61. Microsoft × WWCKorea Vibe Coding hackathon recap
+- **Date:** 2025-09-07
+- **Impressions:** 747
+- **Likes:** 10
+- **URL:** <https://x.com/LearnerBR/status/1964712931649573275>
+
+### 62. GitHub Copilot Metrics GA — enterprise telemetry
+- **Date:** 2026-03-03
+- **Impressions:** 744
+- **Likes:** 2
+- **URL:** <https://x.com/LearnerBR/status/2028665112207442151>
+
+### 63. Why open-sourcing VS Code Copilot Chat matters
+- **Date:** 2025-05-20
+- **Impressions:** 722
+- **Likes:** 7
+- **URL:** <https://x.com/LearnerBR/status/1924689068220416124>
+
+### 64. Microsoft Agent League mini hackathon
+- **Date:** 2026-02-27
+- **Impressions:** 717
+- **Likes:** 3
+- **URL:** <https://x.com/LearnerBR/status/2027490918908194824>
+
+### 65. GitHub Copilot Dev Day at Microsoft Gwanghwamun
+- **Date:** 2026-02-11
+- **Impressions:** 620
+- **Likes:** 12
+- **URL:** <https://x.com/LearnerBR/status/2021502974640673008>
+
+### 66. GitHub Universe deploy-pipeline agent stabilizes
+- **Date:** 2026-02-13
+- **Impressions:** 344
+- **Likes:** 2
+- **URL:** <https://x.com/LearnerBR/status/2022346408570015792>
+
+### 67. Recommended GitHub Actions security prompt
+- **Date:** 2026-03-25
+- **Impressions:** 265
+- **Likes:** 0
+- **URL:** <https://x.com/LearnerBR/status/2036770965737132114>
 
 ---
 
-## Notes on filtering
-- Posts matched against keywords: `microsoft`, `copilot`, `github`, `vscode`, `azure`, `mcp`, `reactor`, `build 2025`, `ignite`, `spec-kit`, `agent hq`, `코파일럿`, `마이크로소프트`, `티타임즈`.
-- The 117/691K figure is automated-match; some posts are GitHub-as-platform mentions vs deep Microsoft-tech coverage. Top 25 are manually reviewed and are clearly Microsoft-focused.
+## Topics covered
+
+GitHub Copilot (CLI, Pro, Enterprise, Metrics, agent mode, Spark), VS Code (Insider, agent mode, Dev Days Seoul / Jeju, multi-root workspace, weekly release cadence), Microsoft MCP (official curriculum, sample, registry), Azure Container Apps, Microsoft Learn, Microsoft Build 2025 / Ignite, GitHub Universe 2025, Microsoft Reactor, Microsoft × WWCKorea diversity programming, Spec Kit / Agents.md, Kevin Scott (Microsoft CTO) keynote, Satya Nadella announcements.
+
+---
+
+## Verification
+
+- Underlying data: X analytics CSV export (`account_analytics_content_2025-05-01_2026-03-31.csv`).
+- Each post is publicly viewable at the URL listed above without login.
+- Per-post impressions and likes are publicly visible on each post.
