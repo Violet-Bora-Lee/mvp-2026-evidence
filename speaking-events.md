@@ -46,19 +46,74 @@
 
 ## Microsoft-aligned community events I organized
 
-### Microsoft × Womxn Who Code Korea × iinwe — Vibe Coding Contest (co-organizer)
-- **Main event date:** 2025-06-28
+### Microsoft × Womxn Who Code Korea × iinwe — AI Vibe Coding Contest 입코딩 대회 (co-organizer)
+- **Main event date:** 2025-06-28, 12:00 – 18:00 KST
+- **Venue:** Microsoft Korea, Gwanghwamun, Seoul
 - **Planning meetings:** 10+ from May to June 2025
 - **Audience:** Korean developers, women re-entering tech, juniors
-- **Topic:** Multi-week competition introducing AI-assisted coding workflows on the Microsoft developer stack
-- **Connection to Microsoft initiative:** "Code; Without Barriers" diversity program
+- **Topic:** Voice-driven coding using GitHub Copilot — first event of its kind in Korea
+- **Keynote:** Klaire Baek (GitHub)
+- **Connection to Microsoft initiative:** "Code Without Barriers" women-engineer skilling program funding
 - **Reference:** <https://lipcoding.kr/>
+
+### Microsoft Agent Framework Lock-in Workshop (announced in period; co-organizer)
+- **Announced:** 2026-03-23 (during contribution period)
+- **Event date:** 2026-04-17 (after contribution period — listed for context)
+- **Venue:** Seoul (in-person all-day workshop)
+- **Microsoft alignment:** Built on **Microsoft Agent Framework**
+- **Topic:** Hands-on multi-agent system construction; participants stay until system is functional
+- **Reference:** <https://x.com/WWCKorea/status/2036044546061340926>
 
 ### Figma MCP × Korean Government Design System hands-on workshop (organizer)
 - **Date:** 2025-05-26
 - **Audience:** ~30 Korean frontend developers
 - **Topic:** Korean Government Design System implementation using Figma MCP integrated with VS Code and GitHub Copilot Agent Mode; Docker-based MCP hosting; Tailwind config generation from Figma variables
 - **Output:** Open-source Korean guide on GitHub
+
+---
+
+## Womxn Who Code Korea — community events I organized as Lead
+
+> Bora Lee leads Womxn Who Code Korea (WWCKorea), one of Korea's most active women-in-tech communities. Full event-by-event evidence with per-post X metrics: see [`wwc/wwc-korea-events.md`](./wwc/wwc-korea-events.md) and the curated CSV [`wwc/wwc-korea-posts-curated.csv`](./wwc/wwc-korea-posts-curated.csv).
+
+### UK Overseas Employment AMA — Twitter Space (organizer)
+- **Date:** 2025-04-11, 20:00 KST
+- **Format:** Twitter Space, online live session
+- **Speaker:** Bomi Yu (Senior developer, Sky UK)
+- **Topic:** UK developer interview strategy, IT firm culture, AI's impact on the local developer market
+
+### She, Run the World — Leadership Conference (organizer)
+- **Date:** 2025-05-31
+- **Venue:** Hanbit Building, Lecture Room 60, Seoul
+- **Format:** In-person paid conference (5,000 KRW)
+- **Speakers:** Kim Tae-hee (8-yr dev → tech lead), You Han-yeoul (product leader), Kim Do-jin (Happymoonday CEO), and others
+- **Topic:** Tech / product / executive leadership for women in tech
+
+### WiBla Podcast 위블라 — community podcast launch (organizer)
+- **Date:** 2025-06-05 (Ep.01 release; ongoing series after)
+- **Format:** Audio podcast
+- **Topic:** Behind-the-scenes of community operations and developer-event small-talk
+
+### 1H Retrospective — IT Women's Community Recap (organizer)
+- **Date:** 2025-07-27 (approx.)
+- **Format:** In-person community gathering (30-person limit)
+- **Topic:** H1 personal reflection + H2 goal-setting using WWCKorea-built retrospective template
+
+### NEW HOPPER 2026 with AI — flagship new-year conference (organizer)
+- **Date:** 2026-01-31, 13:00 – 17:00 KST
+- **Venue:** World Space Seoul, 28 Samil-daero 28-gil 1F, Jongno-gu
+- **Format:** In-person, 100-person conference, sold out
+- **Theme:** "IT women navigating the AI era"
+- **Tracks:** Tech / Career & Productivity / Networking — 10 speakers across the day
+- **Naming:** After Grace Hopper
+
+### Hackathon for Women — International Women's Day 2026 (organizer + keynote)
+- **Date:** 2026-03-07, 10:00 – 18:00 KST
+- **Venue:** Startup Hub Gongdeok (창업허브 공덕), Seoul
+- **Format:** In-person hackathon, 40 participants
+- **Theme:** Solving real social problems affecting women's lives through technology
+- **Output:** 15 projects produced; 9 showcased publicly
+- **Speaker role:** Bora Lee delivered the keynote alongside co-keynote speaker Hyeji Byeon
 
 ---
 

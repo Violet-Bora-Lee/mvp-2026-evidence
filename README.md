@@ -23,6 +23,7 @@ Evidence index for Microsoft MVP 2026 annual review by **Bora Lee** ([Violet-Bor
 - 🐦 **[X (@LearnerBR) — Microsoft & GitHub Positive-Coverage Series](./x-posts.md)** — 71 manually curated posts clearly promoting / educating about Microsoft / GitHub (1.24M combined impressions, top single post 840K), with impressions, likes, and direct links
 - 🐙 **[Microsoft GitHub — Public Issue Reports](./microsoft-github-issues.md)** — vscode, vscode-ai-toolkit, Azure-Samples
 - 🎤 **[Speaking Events](./speaking-events.md)** — Microsoft Reactor, VS Code Dev Days, Microsoft AI Toolkit hackathons
+- 👩‍💻 **[Womxn Who Code Korea — community events organized as Lead](./wwc/wwc-korea-events.md)** — 8 events including Microsoft × WWCKorea AI Vibe Coding Contest, NEW HOPPER 2026 (sold-out 100-person), Hackathon for Women IWD2026, and Microsoft Agent Framework Lock-in Workshop. 53 curated event posts → 188K X impressions.
 
 ---
 
@@ -42,6 +43,9 @@ mvp-2026-evidence/
 ├── x-posts.md                     ← X (Twitter) positive-coverage index
 ├── x/
 │   └── x-posts-curated.csv        ← curated CSV (71 rows, full per-post metrics)
+├── wwc/
+│   ├── wwc-korea-events.md        ← WWCKorea events organized as Lead (8 events)
+│   └── wwc-korea-posts-curated.csv ← curated CSV (53 rows, event-anchor posts)
 ├── microsoft-github-issues.md     ← MS GitHub issue reports
 ├── speaking-events.md             ← speaking engagements
 └── linkedin/
