@@ -36,6 +36,17 @@
 - **Co-speaker:** Justin Yoo (Microsoft)
 - **Event page:** <https://jejuai.kr/vscode-devdays>
 
+### Microsoft AI Community "AI 놀이터" — Tech speaker
+- **Date:** 2025-09-27 (Saturday), 13:00 – 18:00 KST
+- **Title:** "What's your dream? — feat. Simon Squibb" (autumn meetup)
+- **Bora's session:** "[Tech] 바이브코딩, 잘하는 사람 vs. 못하는 사람" (Vibe coding — who does it well vs. poorly)
+- **Venue:** Microsoft Korea, 13F, 50 Jongno 1-gil, Jongno-gu, Seoul (Gwanghwamun, The K Twin Towers A-dong)
+- **Format:** In-person, invitation-only meetup (not first-come-first-serve; attendance confirmed by notification)
+- **Audience:** Korean startup founders, executives, AI / tech decision-makers
+- **Host:** Sungmi Kim (Microsoft Korea Manager)
+- **Co-speakers:** Sungmi Kim (Microsoft — "Frontier Agentic AI and data innovation"); Tae-gyu Han (UNIST Holdings VC); Choi Woo-young / Lee Jae-min / Lee Jong-jin (MediSolve AI); An Young-hak (Eventus); Jang Sun-woong (Allgrace); Cho Min-hee (PMI); Hwang Hyun-tae (DIO)
+- **Topic delivered:** Real-world look at which engineers benefit from vibe coding vs. which struggle — based on enterprise consulting experience and Microsoft developer-stack adoption patterns
+
 ### GitHub Copilot Dev Days — Copilot CLI/SDK session host
 - **Date:** 2026-03 (approx.)
 - **Format:** 2-hour deep-dive session
